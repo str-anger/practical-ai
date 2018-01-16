@@ -1,0 +1,7 @@
+myeq(x) := x^2 + y^3 = 18;
+solve(myeq(x), y);
+solve(myeq(x), y)[1];
+g(x) := 2*x^2 - x^2;
+f(x) := integrate(g(x), x);
+f(x);
+solve(f(x)=9, x);

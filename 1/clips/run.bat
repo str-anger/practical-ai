@@ -1,0 +1,1 @@
+"C:\Program Files\CLIPS\clips.exe" -f %1

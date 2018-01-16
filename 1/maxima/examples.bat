@@ -1,0 +1,1 @@
+C:/maxima-5.38.1/bin/maxima.bat -q -b C:/dev/PAI/maxima/%1

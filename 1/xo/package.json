@@ -1,0 +1,16 @@
+{
+	"name" : "DUMMY.PLAYER",
+	"version": "0.0.1",
+	"description": "Dummy",
+	"license": "AFL-3.0",
+	"repository" :
+		{ "type" : "git", "url" : "http://sprotasov.ru/" },
+	"author": "stanislav.protasov@gmail.com",
+	"dependencies": {
+		"body-parser" : "*",
+		"cookie-parser" : "*",
+		"express" : ">=4.13",
+		"fs-extra" : ">=0.30",
+		"multiparty" : ">=4.1"
+	}
+}
